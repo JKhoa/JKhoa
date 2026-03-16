@@ -1,59 +1,35 @@
-<!-- ===== Banner (stable) ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2a44,100:7aa2f7&height=220&section=header&text=JKhoa&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-</p>
+name: Generate Snake
 
-<!-- ===== Typing ===== -->
-<p align="center">
-  <a href="https://github.com/JKhoa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=Vibe+coding;Web+Dev+%7C+Student+%7C+Always+learning" alt="Typing SVG" />
-  </a>
-</p>
+on:
+  schedule:
+    - cron: "0 0 * * *"   # mỗi ngày 1 lần
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
 
-<p align="center">
-  <b>🌱 Full-stack / UI</b> • <b>📍 Việt Nam</b> • <b>🌐</b> <a href="https://jkhoa.dev">jkhoa.dev</a>
-</p>
+permissions:
+  contents: write
 
-<!-- ===== Links (icons) ===== -->
-<p align="center">
-  <a href="https://jkhoa.dev" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/vercel/7aa2f7" height="34" alt="website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/JKhoa" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="34" alt="github" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/nguyen.khoa.319536" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="34" alt="facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <!-- LinkedIn: dùng badge để tránh CDN icon bị vỡ -->
-  <a href="https://www.linkedin.com/in/khoa-just-390183316/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34" alt="linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:nhakhoa1004@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="DISCORD_LINK" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="34" alt="discord" />
-  </a>
-</p>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
----
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-## 📈 Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JKhoa&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKhoa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JKhoa&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JKhoa&style=for-the-badge&color=7aa2f7" />
-</p>
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
