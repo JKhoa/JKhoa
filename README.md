@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<!-- ===== GIF (file bạn đã upload) ===== -->
+<!-- ===== GIF ===== -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/JKhoa/JKhoa/main/offscript-walking.gif"
@@ -44,7 +44,7 @@
   </a>
 </p>
 
----
+
 
 <!-- ===== Snake ===== -->
 <p align="center">
@@ -54,7 +54,16 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
----
+
+<!-- ===== Activity Graph ===== -->
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JKhoa&theme=tokyo-night&hide_border=true&radius=12"
+    alt="activity-graph"
+  />
+</p>
+
+
 
 ## 📈 Stats
 <p align="center">
