@@ -56,6 +56,7 @@
   - Ship more end-to-end products (UI → API → DB)
   - Improve system design & backend architecture
   - Contribute to open-source + build a strong portfolio
+  - Code first, figure it out later
 
 ---
 ## 🐍 Contribution Snake 
