@@ -55,6 +55,14 @@
   </picture>
 </p>
 
+<!-- ===== Metrics (hợp style hơn Activity Graph) ===== -->
+<p align="center">
+  <img
+    src="https://metrics.lecoq.io/JKhoa?template=classic&config.timezone=Asia%2FHo_Chi_Minh&config.twemoji=true&config.padding=10%2C10&config.display=large&config.hide=stars&base=header%2Cactivity%2Ccommunity%2Crepositories&base.indepth=true&languages=1&languages.limit=6&languages.colors=github&languages.details=percentage&languages.indepth=true&achievements=1&achievements.threshold=C&achievements.display=compact&achievements.limit=6"
+    alt="metrics"
+  />
+</p>
+
 ---
 
 ## 📈 Stats
