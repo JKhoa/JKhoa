@@ -3,8 +3,9 @@
   Minimal dark aesthetic • recruiter-friendly • OSS-ready
 ======================================================== -->
 <!-- ===== Header wave ===== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0b1220&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0b1220&height=220&section=header" width="100%"/>
 </p>
 <!-- ===== Hero / Header ===== -->
 <p align="center">
