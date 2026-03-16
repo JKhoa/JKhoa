@@ -155,9 +155,9 @@
 ## 🧩 Dev Activity (dynamic)
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/JKhoa/JKhoa/main/assets/metrics.svg"
-    alt="metrics"
-  />
+  src="https://raw.githubusercontent.com/JKhoa/JKhoa/main/metrics.svg"
+  alt="metrics"
+/>
 </p>
 
 ## 🫧 Fun / Philosophy
