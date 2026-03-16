@@ -44,7 +44,7 @@
   </a>
 </p>
 
-
+---
 
 <!-- ===== Snake ===== -->
 <p align="center">
@@ -55,15 +55,7 @@
   </picture>
 </p>
 
-<!-- ===== Activity Graph ===== -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JKhoa&theme=tokyo-night&hide_border=true&radius=12"
-    alt="activity-graph"
-  />
-</p>
-
-
+---
 
 ## 📈 Stats
 <p align="center">
