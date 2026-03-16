@@ -1,16 +1,19 @@
-## Hi there 👋
+# Yes, I'm Khoa 
 
-<!--
-**JKhoa/JKhoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
 
-Here are some ideas to get you started:
+## Where to find me
+- Website: https://jkhoa.dev
+- Facebook: (https://www.facebook.com/nguyen.khoa.319536)
+- LinkedIn: (https://www.linkedin.com/in/khoa-just-390183316/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JKhoa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JKhoa&layout=compact&theme=tokyonight)
