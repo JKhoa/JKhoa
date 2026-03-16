@@ -1,12 +1,15 @@
-<!-- ===== Dynamic Banner (SVG) ===== -->
+<!-- ===== Snake Banner (after you set up the workflow) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2a44,100:7aa2f7&height=220&section=header&text=JKhoa&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-snake.svg" />
+  </picture>
 </p>
 
-<!-- ===== Typing ===== -->
 <p align="center">
   <a href="https://github.com/JKhoa">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=Yes%2C+I'm+Khoa+%F0%9F%91%8B;Web+Dev+%7C+Student+%7C+Always+learning;Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=Vibe+coding;Web+Dev+%7C+Student+%7C+Always+learning;Build.+Break.+Fix.+Repeat." alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,7 +17,6 @@
   <b>🌱 Full-stack / UI</b> • <b>📍 Việt Nam</b> • <b>🌐</b> <a href="https://jkhoa.dev">jkhoa.dev</a>
 </p>
 
-<!-- ===== Links (icons) ===== -->
 <p align="center">
   <a href="https://jkhoa.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/vercel/7aa2f7" height="34" alt="website" />
@@ -55,8 +57,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JKhoa&style=for-the-badge&color=7aa2f7" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1f2a44&height=110&section=footer" />
 </p>
