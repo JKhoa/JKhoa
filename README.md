@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <sub>Portfolio: <a href="https://jkhoa.dev">jkhoa.dev</a></sub>
+  <sub>Portfolio: <href="https://jkhoa.dev">jkhoa.dev></sub>
 </p>
 
 <!-- ===== GIF (giữ nguyên phần bạn đã làm) ===== -->
@@ -62,6 +62,14 @@
   - Contribute to open-source + build a strong portfolio
 
 ---
+## 🐍 Contribution Snake 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ## 🧰 Tech Stack
 
@@ -98,16 +106,8 @@
 
 ---
 
-## 🐍 Contribution Snake (giữ nguyên phần bạn đã làm)
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -121,37 +121,6 @@
 
 ---
 
-## 🗺️ Contribution Graph
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JKhoa&theme=tokyo-night&hide_border=true&radius=10"
-    alt="activity-graph"
-  />
-</p>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <!-- AI / Agriculture Detection -->
-  <a href="https://github.com/JKhoa/DaLatAur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JKhoa&repo=DaLatAur&theme=tokyonight&hide_border=true" alt="DaLatAur" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Web Applications -->
-  <a href="https://github.com/JKhoa/Portfolio-JKhoa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JKhoa&repo=Portfolio-JKhoa&theme=tokyonight&hide_border=true" alt="Portfolio-JKhoa" />
-  </a>
-  <!-- Experiments / Labs -->
-  <a href="https://github.com/JKhoa/Unity2DGame">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JKhoa&repo=Unity2DGame&theme=tokyonight&hide_border=true" alt="Unity2DGame" />
-  </a>
-</p>
-
----
-
 ## 🧩 Dev Activity (dynamic)
 <p align="center">
   <img
@@ -160,16 +129,7 @@
 />
 </p>
 
-## 🫧 Fun / Philosophy
-<p align="center">
-  <i>“Vibe coding — ship small, learn fast, iterate forever.”</i>
-</p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
----
 
 <!-- ===== Footer wave (optional, minimal) ===== -->
 <p align="center">
