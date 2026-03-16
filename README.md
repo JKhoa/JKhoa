@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>Portfolio: <href="https://jkhoa.dev">jkhoa.dev></sub>
-</p>
-
 <!-- ===== GIF (giữ nguyên phần bạn đã làm) ===== -->
 <p align="center">
   <img
