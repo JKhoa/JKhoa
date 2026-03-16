@@ -155,11 +155,10 @@
 ## 🧩 Dev Activity (dynamic)
 <p align="center">
   <img
-    src="https://metrics.lecoq.io/JKhoa?template=classic&config.timezone=Asia%2FHo_Chi_Minh&config.twemoji=true&config.padding=10%2C10&config.display=large&config.hide=stars&base=activity%2Crepositories&base.indepth=true&languages=1&languages.limit=6&languages.colors=github&languages.details=percentage&languages.indepth=true"
+    src="https://metrics.lecoq.io/JKhoa?template=classic&config.timezone=Asia%2FHo_Chi_Minh&config.display=large&config.padding=12%2C12&config.twemoji=true&base=activity&base.indepth=true&languages=1&languages.limit=6&languages.details=percentage&languages.colors=github"
     alt="metrics"
   />
 </p>
-
 ---
 
 ## 🫧 Fun / Philosophy
