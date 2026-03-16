@@ -2,7 +2,9 @@
   JKhoa — GitHub Profile README
   Minimal dark aesthetic • recruiter-friendly • OSS-ready
 ======================================================== -->
-
+<p align="center">
+<img src="banner.png" width="100%">
+</p>
 <!-- ===== Hero / Header ===== -->
 <p align="center">
   <a href="https://github.com/JKhoa">
