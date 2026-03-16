@@ -5,7 +5,7 @@
 <!-- ===== Header wave ===== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0b1220&height=260&section=header&text=JKhoa&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:0b1220&height=200&section=header&width=100%" width="100%" />
 </p>
 <!-- ===== Hero / Header ===== -->
 <p align="center">
