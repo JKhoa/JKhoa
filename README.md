@@ -1,28 +1,20 @@
-<!-- ===== Banner ===== -->
+<!-- ===== Typing ===== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2a44,100:7aa2f7&height=220&section=header&text=JKhoa&fontSize=60&fontColor=ffffff&animation=fadeIn"
-    alt="banner"
-  />
+  <a href="https://github.com/JKhoa">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=Web+Dev+%7C+Student+%7C+AI;Vibe+coding"
+      alt="Typing SVG"
+    />
+  </a>
 </p>
 
-<!-- ===== GIF dưới banner (file bạn đã upload) ===== -->
+<!-- ===== GIF (file bạn đã upload) ===== -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/JKhoa/JKhoa/main/offscript-walking.gif"
     width="220"
     alt="offscript-walking"
   />
-</p>
-
-<!-- ===== Typing ===== -->
-<p align="center">
-  <a href="https://github.com/JKhoa">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=7AA2F7&center=true&vCenter=true&width=760&lines=Vibe+coding;Web+Dev+%7C+Student+%7C+Always+learning"
-      alt="Typing SVG"
-    />
-  </a>
 </p>
 
 <p align="center">
@@ -50,19 +42,11 @@
   <a href="mailto:nhakhoa1004@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34" alt="gmail" />
   </a>
-
-  <!-- Nếu bạn có link Discord invite, bỏ comment và thay DISCORD_LINK -->
-  <!--
-  &nbsp;&nbsp;
-  <a href="DISCORD_LINK" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="34" alt="discord" />
-  </a>
-  -->
 </p>
 
 ---
 
-<!-- ===== Snake (sẽ hiện sau khi workflow chạy xong và tạo branch output) ===== -->
+<!-- ===== Snake ===== -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JKhoa/JKhoa/output/github-snake-dark.svg" />
