@@ -1,6 +1,6 @@
-<!-- ===== Banner ===== -->
+<!-- ===== Dynamic Banner (SVG) ===== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="900" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f2a44,100:7aa2f7&height=220&section=header&text=JKhoa&fontSize=60&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ===== Typing ===== -->
@@ -10,13 +10,11 @@
   </a>
 </p>
 
-<!-- ===== Small intro (gọn) ===== -->
 <p align="center">
   <b>🌱 Full-stack / UI</b> • <b>📍 Việt Nam</b> • <b>🌐</b> <a href="https://jkhoa.dev">jkhoa.dev</a>
 </p>
 
 <!-- ===== Links (icons) ===== -->
-<!-- Sửa DISCORD_LINK thành link server/invite của bạn, ví dụ: https://discord.gg/xxxxx -->
 <p align="center">
   <a href="https://jkhoa.dev" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/vercel/7aa2f7" height="34" alt="website" />
@@ -45,50 +43,6 @@
 
 ---
 
-## 🧰 Tech
-<p align="center">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  </a>
-  &nbsp;
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  </a>
-  &nbsp;
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  </a>
-  &nbsp;
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/tailwindcss/38BDF8" height="40" alt="TailwindCSS"/>
-  </a>
-</p>
-
----
-
-## ✨ Featured
-- 🚀 Portfolio: https://github.com/JKhoa/Portfolio-JKhoa  
-- 🧪 Text to Image: https://github.com/JKhoa/DaLatAur  
-- 🎮 Unity 2D Game: https://github.com/JKhoa/Unity2DGame  
-
----
-
 ## 📈 Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=JKhoa&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -103,7 +57,6 @@
   <img src="https://komarev.com/ghpvc/?username=JKhoa&style=for-the-badge&color=7aa2f7" />
 </p>
 
-<!-- ===== Footer wave ===== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1f2a44&height=110&section=footer" />
 </p>
