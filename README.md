@@ -14,7 +14,6 @@
 </p>
 
 <p align="center">
-  <b>Building clean UI, practical backends, and AI-powered web experiences.</b><br/>
   <sub>🇻🇳 Vietnam • Portfolio: <a href="https://jkhoa.dev">jkhoa.dev</a></sub>
 </p>
 
@@ -53,7 +52,7 @@
 ---
 
 ## 🧠 About Me
-- I’m **Khoa** — a **Web Dev student** focusing on **Full-stack / UI**.
+- I’m **Khoa** — a **Dev student** focusing on **Full-stack and Machine Learning**.
 - Based in **Vietnam** and actively building real-world projects for the web.
 - Current focus: **React / Next.js**, **Node.js**, clean UI systems, and **AI-integrated web apps**.
 - Interests: **AI for practical applications**, **backend APIs**, product-minded frontend engineering.
