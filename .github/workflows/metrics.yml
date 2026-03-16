@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 1 * * *" # mỗi ngày
+    - cron: "0 1 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,6 +19,7 @@ jobs:
 
           user: JKhoa
           template: classic
+
           config_timezone: Asia/Ho_Chi_Minh
           config_twemoji: yes
           config_padding: 12%
@@ -31,4 +32,4 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_colors: github
 
-          filename: assets/metrics.svg
+          filename: metrics.svg
